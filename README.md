@@ -6,7 +6,7 @@ are in the public domain but simply needed some cleaning up and recoding to matc
 Chapter 1
 ---------
 
-No datasets used
+No datasets 
 
 Chapter 2
 ---------
